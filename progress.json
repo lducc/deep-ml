@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:58:11.912Z",
+  "generated_at": "2026-09-22T06:58:47.646Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -96,6 +96,19 @@
       "last_pushed_at": "2026-09-22T06:58:11.366Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-22T06:58:46.919Z",
+      "last_pushed_at": "2026-09-22T06:58:46.919Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
