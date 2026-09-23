@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:53:31.484Z",
+  "generated_at": "2026-09-23T09:55:56.157Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -255,6 +255,19 @@
       "last_pushed_at": "2026-09-23T09:53:30.874Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-23T09:55:55.329Z",
+      "last_pushed_at": "2026-09-23T09:55:55.329Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
